@@ -1,0 +1,10 @@
+P:\GitHub_Repo\CLI-Example\SandBox\bin\Debug\SandBox.exe.config
+P:\GitHub_Repo\CLI-Example\SandBox\bin\Debug\SandBox.exe
+P:\GitHub_Repo\CLI-Example\SandBox\bin\Debug\SandBox.pdb
+P:\GitHub_Repo\CLI-Example\SandBox\bin\Debug\Wrapper.dll
+P:\GitHub_Repo\CLI-Example\SandBox\bin\Debug\Wrapper.pdb
+P:\GitHub_Repo\CLI-Example\SandBox\obj\Debug\SandBox.csproj.AssemblyReference.cache
+P:\GitHub_Repo\CLI-Example\SandBox\obj\Debug\SandBox.csproj.CoreCompileInputs.cache
+P:\GitHub_Repo\CLI-Example\SandBox\obj\Debug\SandBox.csproj.CopyComplete
+P:\GitHub_Repo\CLI-Example\SandBox\obj\Debug\SandBox.exe
+P:\GitHub_Repo\CLI-Example\SandBox\obj\Debug\SandBox.pdb
