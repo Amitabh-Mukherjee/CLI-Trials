@@ -36,3 +36,6 @@
 *.log
 *.tlog
 *.lastbuildstate
+*.ipch
+*.log
+*.cache
