@@ -30,3 +30,9 @@
 *.exe
 *.out
 *.app
+*.db
+*.db-shm
+*.opendb
+*.log
+*.tlog
+*.lastbuildstate
